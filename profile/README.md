@@ -18,8 +18,8 @@ Exploring the underlying mechanisms of human communication through empirical lit
 ### 旗舰开源规范 · Flagship Open Specification
 
 - **[`do-link/communication-growth-map`](https://github.com/do-link/communication-growth-map)** — **《沟通成长地图 1.0》（`CL-WP-2026-01` · `CC BY 4.0`）**
-  - 跨越门派之争，基于 53 项跨学科经典实证研究构建的 **8 大方向 × 40 个角色化处境** 公共坐标系
-  - 完整白皮书正文、3 幅高清纯模型图版、`taxonomy-8x40.v1.json` 机读规范、53 篇标准 `references.bib` 与零依赖 `reproduce_spider_area_bias.py` 几何证明脚本
+  - 超越单一学科视角，基于 53 项行为科学实证研究构建的 **8 大方向 × 40 个角色化处境** 公共坐标系
+  - 完整白皮书正文、3 幅高清纯模型图版、`taxonomy-8x40.v1.json` 机读规范、53 篇标准 `references.bib` 与零依赖 `reproduce_spider_area_bias.py` 几何验证脚本
 
 ---
 
